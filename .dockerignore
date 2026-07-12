@@ -1,0 +1,68 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs & data (unless you want to include them)
+logs/
+*.log
+data/*.tmp
+*.csv.bak
+*.xlsx.bak
+
+# Environment & secrets
+.env
+.env.*
+*.env
+secrets/
+credentials/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / build artifacts
+*.tmp
+*.bak
+*.orig
+
+# Docker files (optional, to avoid copying them unnecessarily)
+Dockerfile
+.dockerignore
