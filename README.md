@@ -7,6 +7,14 @@ This MAS project will be adding in the final missing governance layer that I had
 
 Will update the readme here and all project files needed to clone repo and run yourself later on.
 
+
 Here is a diagram I made to show the system architecture design for the enterprise grade build.
 
 ![System_Architecture_New](Screenshots/System_Architecture_Diagram_current.drawio.png)
+
+
+
+Here is a flowchart diagram I made showing the backend mechanics of the enterprise build.
+
+
+![Chat_Flow_Architecture](Screenshots/Chat_Agent_Flow_Diagram_current.drawio.png)
