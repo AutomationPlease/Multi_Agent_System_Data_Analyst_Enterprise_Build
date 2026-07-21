@@ -1,1 +1,1 @@
-# secondary data load path for manual/automated sql loading into postgre for external or internal data sources with no api configuration.
+# secondary data load file for manual/automated sql loading into postgre for external or internal data sources with no api configuration (excel files etc)
