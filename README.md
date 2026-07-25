@@ -1,30 +1,51 @@
 # Multi_Agent_System_Data_Analyst_Enterprise_Build
-Enterprise grade security Multi Agent System Data Analyst build.
+Multi Agent System Data Analyst build with enterprise grade security.
 
-After completing a couple LLM/Agent development courses around security, guardrails, safety provisions. I understand a bit more on how to add in the goverance layer. Where as before in other agentic projects I wasn't all sure how to go about developing it, as the MAS project was being developed with the only usage being on a local computer run by myself, so one user.
+**Note: This repo is being continually updated. Project source code is not uploaded at this time.**
 
-This MAS project will be adding in the final missing governance layer that I hadn't previously gotten to in my development courses.. Instead of learning more advanced tools, loop techniques etc. I skipped to the governance courses to bring my understanding more together.
+## Analysis Tools
+Database tools that operate on PostgreSQL data:
+- Inventory summary
+- Highest on-hand items
+- Low stock detection
+- Demand versus on-hand comparison
+- Overdue order identification
+- Demand spike detection
 
-Will update the readme here and all project files needed to clone repo and run yourself later on.
+## Security Notes
+- Passwords are stored as bcrypt hashes.
+- API routes are protected with an API key.
+- Rate limiting is applied to selected endpoints.
+- Security headers are attached in middleware.
+- Role checks gate admin UI access.
+- File access is constrained through path validation helpers.
+
+## Operational Status
+Implemented:
+- Authenticated multi-user access
+- Role model for admin and standard users
+- Persistent threads
+- Database-backed inventory analysis
+- Dockerized API deployment
+
+## License
+Proprietary. Internal use only unless otherwise specified by the project owner.
 
 
-Here is a diagram I made to show the system architecture design for the enterprise build.
+## Architecture
+
+Here are some diagrams I made to show the system architecture design for the enterprise build:
 
 
 ![System_Architecture](Screenshots/System_Architecture.drawio.png)
 
 
 
-Here is a flowchart I made showing the backend mechanics of the enterprise build.
-
-
+##
 ![Chat_Flowchart](Screenshots/Delegation_Flow_Agents_Diagram.drawio.png)
 
 
 
 
-
-This is another perspective into how the agents function in the enterprise build.
-
-
+##
 ![Agents](Screenshots/Agent_Specialist_current_drawio.png)
