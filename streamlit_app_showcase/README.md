@@ -84,7 +84,7 @@
 - Admin charts are different from visuals that would be found on the dashboard page.
   - These are more for usage, user, and system tracking/monitoring rather than data visualization.
   - Just as before, more visuals for tracking/monitoring these metrics may be added, but needs the endpoint configurations done within streamlit_app.py and api.py files.
-  - And to note that I just did a full database reset for system testing purposes, so the metrics being tracked visually in the screenshots below don't show a long history, but you can still get a perspective into how they function.
+  - And to note that I just did a full database reset for system testing purposes at the time of writing this markdown, so the metrics being tracked visually in the screenshots below don't show a long history, but you can still get a perspective into how they function.
 
 ![admin page charts one](../Screenshots/Streamlit_App/admin_page_charts_one_container.png)
 
