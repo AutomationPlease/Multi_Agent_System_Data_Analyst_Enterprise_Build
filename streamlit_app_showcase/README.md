@@ -37,7 +37,7 @@
       <br />Showing conversation rename
     </td>
     <td width="50%" valign="bottom" align="left">
-      <img src="../Screenshots/Streamlit_App/side_panel_chat_delete.png" width="400" alt="deleted" />
+      <img src="../Screenshots/Streamlit_App/side_panel_chat_deleted.png" width="400" alt="deleted" />
       <br />Showing conversation deleted
     </td>
   </tr>
