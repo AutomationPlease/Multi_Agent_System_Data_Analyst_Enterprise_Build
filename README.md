@@ -33,7 +33,7 @@ Proprietary. Internal use only unless otherwise specified by the project owner.
 
 ## User Interface and Application Screenshots
 
-→ [View Project](https://github.com/AutomationPlease/Multi_Agent_System_Data_Analyst_Enterprise_Build/streamlit_app_showcase/)
+→ [View Project](https://github.com/AutomationPlease/Multi_Agent_System_Data_Analyst_Enterprise_Build/streamlit_app_showcase)
 
 ## Architecture
 
