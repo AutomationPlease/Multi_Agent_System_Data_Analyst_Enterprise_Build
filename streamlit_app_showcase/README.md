@@ -9,7 +9,7 @@
 ![app home page no side panel](../Screenshots/Streamlit_App/home_page_blank_chat.png)
 
 
-## Home page, blank chat displayed with upper half of side panel showing
+## Home page, blank chat displayed with side panel showing
   - Shows User Name, User Role, Services Status.
   - Logout, self explanatory.
   - Dashboard, goes to analytical dashboards page for given data sets in system.
