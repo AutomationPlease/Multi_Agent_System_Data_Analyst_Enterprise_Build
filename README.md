@@ -31,8 +31,7 @@ Implemented:
 ## License
 Proprietary. Internal use only unless otherwise specified by the project owner.
 
-## User Interface and Application Screenshots
-
+## User Interface and Application Showcase
 → [View Project](https://github.com/AutomationPlease/Multi_Agent_System_Data_Analyst_Enterprise_Build/tree/main/streamlit_app_showcase)
 
 ## Architecture
