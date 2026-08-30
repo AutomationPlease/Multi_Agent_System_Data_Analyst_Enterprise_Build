@@ -36,13 +36,12 @@ Proprietary. Internal use only unless otherwise specified by the project owner.
 
 ## Architecture
 
-Here are some diagrams I made to show the system architecture design for the enterprise build:
-
-
+System architecture design diagram for the enterprise build:
 ![System_Architecture](Screenshots/System_Architecture.drawio.png)
 
 
 
+Some future development path considerations:
 ##
 ![Chat_Flowchart](Screenshots/Delegation_Flow_Agents_Diagram.drawio.png)
 
