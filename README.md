@@ -1,7 +1,7 @@
 # Multi_Agent_System_Data_Analyst_Enterprise_Build
 Multi Agent System Data Analyst build with enterprise grade security.
 
-**Note: This repo is being continually updated. Project source code is not uploaded at this time.**
+**Note: This repo is being continually updated. Project source code is not fully uploaded at this time.**
 
 ## Analysis Tools
 Database tools that operate on PostgreSQL data:
